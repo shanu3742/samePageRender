@@ -1,0 +1,25 @@
+/* html {
+  scroll-behavior: smooth;
+} */
+
+.shanu {
+  background-color: aqua;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.shanu1 {
+  background-color: rgb(87, 93, 93);
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.navbar {
+  position: fixed;
+}
