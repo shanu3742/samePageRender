@@ -18,9 +18,9 @@ function App() {
   return (
     <>
 
-       <Button to={myRef}>Home</Button>
-       <Button to= {homeRef}>About </Button>
-       <Button to={aboutRef} >Login</Button>
+       <Button to={myRef} color='blue'>Home</Button>
+       <Button to= {homeRef} color='red'>About </Button>
+       <Button to={aboutRef}  color='green'>Login</Button>
         
 <Routes path={myRef}>
 <div className='shanu' >I wanna be seen</div> 
